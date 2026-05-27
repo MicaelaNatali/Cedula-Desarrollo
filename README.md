@@ -1,2 +1,1 @@
-# Cedula-Desarrollo
-TP Organización Empresarial
+Proyecto orientado al análisis de resultados deportivos.
